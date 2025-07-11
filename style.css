@@ -30,3 +30,30 @@
     width: 905px;
     height: 237px;
 }
+#reg{
+    font-size: 42px;
+    margin-bottom: none;
+    color: #252432;
+}
+.img{
+    border-radius: 48px;
+    width: 403px;
+    height: 328px;
+    margin-right: 150px;
+}
+.sec{
+    margin-top: 100px;
+    margin-left: 141px;
+    margin right: 159px;
+    display: flex;
+    justify-content: space-between;
+}
+span{
+    color: #252432;
+    font-size: 24px;
+    text-align: left;
+}
+.txt{
+    margin-top: 50px;
+    margin-right: ;
+}
