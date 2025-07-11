@@ -57,3 +57,18 @@ span{
     margin-top: 50px;
     margin-right: ;
 }
+.rat{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.users{
+       text-align: center;
+   
+    
+    background-color: #4E47FF20;
+    
+   
+
+
+}
