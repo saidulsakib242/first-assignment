@@ -1,3 +1,32 @@
 .nav{
+    color: #4E47FF;
+    justify-content: space-between;
+    display: flex;
+    margin: 0px 150px;
+}
+.btn{
+    background-color: #4E47FF;
+    color: #FFFF;
+    border: none;
     
+    border-radius: 10px;
+    text-align: center;
+    width: 132px;
+    height: 48px;
+    
+}
+.back{
+    background-image: url(Assets/Hero-bg.png);
+    width: 1440px;
+    height: 698px;
+}
+.hback{
+    margin-top: 309px;
+    margin-bottom: 100px;
+    margin-left: 267.5px;
+    margin-right: 267.5px;
+    text-align: center;
+    font-size: 65px;
+    width: 905px;
+    height: 237px;
 }
